@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "57fqBdG0OadcBkQfI955aIH3AZa/QQ0JSiY0iiEgUNx+FCwerVj1lRS5vh/3DMuygePCHBa1yIFEmBpfqLz2Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\james.christoforo\\source\\repos\\Conway\\Conway\\Conway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\james.christoforo\\.nuget\\packages\\naudio\\1.9.0\\naudio.1.9.0.nupkg.sha512",
+    "C:\\Users\\james.christoforo\\.nuget\\packages\\soundplayercontrol\\0.9.0.6\\soundplayercontrol.0.9.0.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SoundPlayerControl 0.9.0.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SoundPlayerControl",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

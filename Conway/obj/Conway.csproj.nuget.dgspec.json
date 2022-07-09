@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\james.christoforo\\source\\repos\\Conway\\Conway\\Conway.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\james.christoforo\\source\\repos\\Conway\\Conway\\Conway.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\james.christoforo\\source\\repos\\Conway\\Conway\\Conway.csproj",
+        "projectName": "Conway",
+        "projectPath": "C:\\Users\\james.christoforo\\source\\repos\\Conway\\Conway\\Conway.csproj",
+        "packagesPath": "C:\\Users\\james.christoforo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\james.christoforo\\source\\repos\\Conway\\Conway\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\james.christoforo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\james.christoforo\\source\\repos\\ToxSentry\\ToxSentry-QueryBuilder-Parity\\ToxSentryWebv1.0.1.5\\packages_0.8.3.11\\": {},
+          "C:\\Users\\james.christoforo\\source\\repos\\ToxSentry\\ToxSentry-QueryBuilder-Parity\\ToxSentryWebv1.0.1.5\\packages_1.0.1.4\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "SoundPlayerControl": {
+              "target": "Package",
+              "version": "[0.9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

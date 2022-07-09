@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Conway": {
+      "commandName": "Project",
+      "commandLineArgs": "dotnet conway.dll live-color yellow dead-color brow"
+    }
+  }
+}
